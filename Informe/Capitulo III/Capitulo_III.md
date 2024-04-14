@@ -1,1 +1,18 @@
-# Cap 3
+# Capítulo III: Requirements Specification
+### 3.1. **To-Be Scenario Mapping**
+
+
+### 3.2. **User Stories**
+| User Story ID | Titulo | Descripcion | Criterios de Aceptacion |
+| ------------- | ------ | ----- | ---- |
+| HU001 | Ingreso de Usuarios | Como usuario no identificado en el sistema, quiero iniciar sesión en la aplicación, para lograr acceder a mi cuenta personal. | Escenario N°1: Usuario inicia sesión con sus datos personales Dado que el usuario necesitará registrarse para ingresar por primera vez a la aplicación, deberá completar su información personal básica Cuando el usuario coloca en los campos “Correo electrónico” y “Contraseña” Entonces el sistema le asigna una sesión de usuario| 
+| HU002 | Registro de usuario(mayor escala) | Como una gran empresa constructora en proyectos de mayor escala quiero registrarme dentro de la aplicación para gestionar de mejor manera mis proyectos. | Escenario N°1: Crear cuenta. Dado que el usuario constructora se encuentra en sección de "inicio" Cuando el el usuario no se encuentra registrado en la aplicación Entonces al seleccionar “Crear Cuenta” el sistema le redireccionará al registro. Escenario N°2: rellenado de datos correctamente. Dado que el usuario se encuentra en la sección de registro y selecciona la sección "Aceptar" Cuando el usuario rellene todos los datos correctamente Entonces el sistema registra sus datos ingresados a la base de datos y mostrará "Usted se ha registrado de manera exitosa". | 
+| HU003 | Registro de usuario(menor escala) | Como contratista o  empresa constructora en proyectos de menor escala quiero registrarme dentro de la aplicación para gestionar de mejor manera mis proyectos. | Escenario 1: El usuario desea crear una cuenta. Dado que el usuario se encuentra en sección de inicio Cuando el usuario no se encuentra registrado en el aplicación y al seleccionar “Crear una Cuenta” Entonces el sistema le redireccionará al registro. Escenario 2: El usuario rellena sus datos correctamente. Dado que el usuario se encuentra en la sección de registro y selecciona la sección "Aceptar" Cuando el usuario rellena todos los datos correctamente. Entonces el sistema registra los datos ingresados a la base de datos correctamente y mostrará "Usted se ha registrado de manera exitosa". | 
+| HU004 | Diseño del sistema | Como administrador de la aplicación quiero que el diseño de la aplicación sea accesible, para lograr que los usuarios identifiquen la plataforma. | Escenario N°1: Elección de colores. Dado que necesitamos que el usuario se familiarice con la aplicación, el administrador aplicará colores atractivos And  usara una buena  Tipografía Escenario N°2: Reconocimiento de la marca del producto. Dado que el administrador quiera que la marca sea reconocida Cuando se ejecuta la aplicación Entonces enfocara la marca a una relación mas personalizada para el usuario. |
+| HU005 | Comentarios del usuario | Como usuario quiero hacer comentarios dentro de la aplicación para enviar mi opinión sobre la aplicación. | Escenario N°1: El usuario puede enviar comentarios. Dado que soy un usuario de la aplicación, Cuando quiero expresar mi opinión sobre la aplicación,Entonces quiero poder hacer comentarios dentro de la aplicación.
+| HU006 | Gestión de proyectos | Como usuario del sistema, quiero que la aplicación me permita llevar un registro del tiempo invertido en cada proyecto, para poder analizar la rentabilidad de mis proyectos. | Escenario N°1: El usuario puede gestionar sus proyectos. Dado que soy usuario del sistema, Cuando trabajo en un proyecto, Entonces la aplicación debe permitirme llevar un registro del tiempo invertido en cada proyecto, para poder analizar la rentabilidad de mis proyectos. | 
+
+
+### 3.3. **Impact Mapping**
+
+### 3.4. **Product Backlog**
