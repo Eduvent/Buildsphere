@@ -70,33 +70,219 @@ Enlace figma: [https://shorturl.at/adtFZ](https://shorturl.at/adtFZ)
 
 ## 4.4. Web Applications UX/UI Design
 
-### 4.4.1 Web Applications Wiregrames
+### 4.4.1 Web Applications Wireframes
 
-![Wireframe registro](https://cdn.discordapp.com/attachments/323597812694777858/1226235432795242596/IniciarSesionVacio.png?ex=662407bd&is=661192bd&hm=6a8830f9c63332a0b49cfe6e9f8f9bef4ca21ce508f643ee70a5e92666d1451c&)
+### User goal: Iniciar sesión, registro de un nuevo usuario y recuperación de contraseña.
+Iniciar sesión
+![]()
+Registrarse
+![]()
+Recuperar contraseña
+![]()
 
-![Wireframe proyectos](https://cdn.discordapp.com/attachments/323597812694777858/1226235515309916220/Gestion_de_proyectos.png?ex=662407d1&is=661192d1&hm=abf5d0c241f3eca644fb60e4eafbff0927894f611acae6324a77d3d9afbe67d2&)
+### User goal: Crear un nuevo proyecto y ver información de un proyecto.
+Vista proyectos
+![]()
+Formulario nuevo proyecto
+![]()
+Nuevo proyecto agregado
+![]()
 
-![Wireframe registro proyecto](https://cdn.discordapp.com/attachments/323597812694777858/1226235644473507920/Registrar_proyecto.png?ex=662407ef&is=661192ef&hm=2699ea7fd15750ce9c91651f24b9a6d2f82aca678449dde7506a0a0b6e508d44&)
+### User goal: Agregar un nuevo material y agregar una nueva maquinaria.
+Vista gestión de recursos
+![]()
+Formulario nuevo material
+![]()
+Formulario nueva maquinaria
+![]()
 
-![Wireframe](https://cdn.discordapp.com/attachments/323597812694777858/1226235745178615920/Proyecto_1.png?ex=66240808&is=66119308&hm=338321e671507c1c188bfa72c6bd326e63b5feb8fc703babdadf7e67e23be7a3&)
+### User goal: Crear un nuevo equipo.
+Vista colaboración y comunicación
+![]()
+Formulario nuevo equipo
+![]()
 
-![](https://cdn.discordapp.com/attachments/323597812694777858/1226235801084493867/Gestion_de_recursos.png?ex=66240815&is=66119315&hm=83c44691c9af396ea2fb3eb0464614ae98fc194d6dab21ce8a48622685ed599e&)
+### User goal: Agregar un nuevo trabajador.
+Vista comunicación y colaboración
+![]()
+Formulario nuevo trabajador
+![]()
 
-![](https://cdn.discordapp.com/attachments/323597812694777858/1226235911080251472/Gestion_de_recursos_01.png?ex=6624082f&is=6611932f&hm=4cdd03523b65cde3e85d56c9d6d1fbe80360c123b43017c120f8b2c2f3948a8b&)
+### User goal: Crear una nueva tarea.
+Vista comunicación y colaboración
+![]()
+Formulario nueva tarea
+![]()
 
-![](https://cdn.discordapp.com/attachments/323597812694777858/1226235965761261641/Comunicacion_y_colaboracion.png?ex=6624083c&is=6611933c&hm=8f8c041dc5572f479e075e176f32b4eeb398a18c5506ab9f72c8cc07d6142bbb&)
+### User goal: Crear una nueva carpeta.
+Vista documentos – carpetas
+![]()
+Formulario nueva carpeta
+![]()
 
-![](https://cdn.discordapp.com/attachments/323597812694777858/1226236001513635880/Comunicacion_y_colaboracion_01.png?ex=66240845&is=66119345&hm=1419470cfb529ab55ef521e129b4629c275f5f6826f8044b910c76223fbb5c55&)
+### User goal: Subir un nuevo archivo.
+Vista documentos – carpeta seleccionada
+![]()
+Formulario nuevo archivo
+![]()
 
-![](https://cdn.discordapp.com/attachments/323597812694777858/1226236032098373672/Soporte_y_ayuda.png?ex=6624084c&is=6611934c&hm=01fec225f72583cb0cf4d47e1ecb0dc073ebe20c70048fbc3e189b98e2891ae2&)
-
-![](https://cdn.discordapp.com/attachments/323597812694777858/1226236087765045360/Documentos.png?ex=66240859&is=66119359&hm=90b205945938ba26023d1fd1c11e273478f77aa5a1ebe48a8c094f4a92b68956&)
+### User goal: Editar datos personales
+Vista datos personales
+![]()
 
 ### 4.4.2 Web Applications Wireflow Diagrams
 
+### User goal: Iniciar sesión, registro de un nuevo usuario y recuperación de contraseña.
+![]()
+Descripción:
+Al iniciar la aplicación, el usuario se encuentra en la vista de bienvenida, donde podrá seleccionar dos opciones: iniciar sesión, que lo llevará a la pantalla de inicio de sesión para acceder a la aplicación, y además recuperar su contraseña o registrarse con sus datos personales. 
+
+### User goal: Crear un nuevo proyecto y ver información de un proyecto.
+![]()
+Descripción:
+Desde la vista de proyectos, el usuario puede crear nuevos proyectos al seleccionar el botón 'Crear nuevo proyecto'. Al completar correctamente los datos requeridos en el formulario, podrá visualizar la información del nuevo proyecto. 
+
+### User goal: Agregar un nuevo material y agregar una nueva maquinaria.
+![]()
+Descripción:
+Desde la vista de gestión de recursos, el usuario puede crear un nuevo material o una nueva maquinaria al presionar el botón 'Agregar' correspondiente. Se mostrará un formulario donde el usuario completará los datos correspondientes y al presionar el botón 'Guardar', verá el nuevo elemento agregado. 
+
+### User goal: Crear un nuevo equipo.
+![]()
+Descripción:
+Desde la vista de comunicación y colaboración, el usuario puede crear un nuevo equipo al presionar el botón 'Agregar' en la sección de equipos. Aparecerá un formulario que deberá completar con los datos correctos y al hacerlo, se creará el nuevo equipo. 
+
+### User goal: Agregar un nuevo trabajador.
+![]()
+Descripción:
+Desde la vista de comunicación y colaboración, el usuario puede agregar un nuevo trabajador al presionar el botón 'Agregar' en la sección de trabajadores. Aparecerá un formulario que deberá completar con los datos correctos y al hacerlo, se agregará al nuevo trabajador. 
+
+### User goal: Crear una nueva tarea.
+![]()
+Descripción:
+Desde la vista de comunicación y colaboración, el usuario puede crear una nueva tarea al presionar el botón 'Agregar' en la sección de tareas. Aparecerá un formulario que deberá completar con los datos correctos y al hacerlo, se creará una nueva tarea.
+ 
+### User goal: Crear una nueva carpeta.
+![]()
+Descripción:
+Desde la vista de documentos, al seleccionar el botón 'Crear carpeta', el usuario verá un formulario donde podrá ingresar el nombre de la carpeta, y al hacerlo, se creará la nueva carpeta. 
+
+### User goal: Subir un nuevo archivo.
+![]()
+Descripción:
+Al seleccionar una carpeta disponible, el usuario puede subir un archivo al hacer clic en 'Subir archivo', donde podrá elegir el nombre de este. 
+
+### User goal: Editar datos personales
+![]()
+Descripción:
+Al estar en la vista configuración, el usuario puede editar su perfil y cambiar su foto de perfil.
+
 ### 4.4.3 Web Applications Mock-ups
 
+### User goal: Iniciar sesión, registro de un nuevo usuario y recuperación de contraseña.
+Iniciar sesión
+![]()
+Registrarse
+![]()
+Recuperar contraseña
+![]()
+
+### User goal: Crear un nuevo proyecto y ver información de un proyecto.
+Vista proyectos
+![]()
+Formulario nuevo proyecto
+![]()
+Nuevo proyecto agregado
+![]()
+
+### User goal: Agregar un nuevo material y agregar una nueva maquinaria.
+Vista gestión de recursos
+![]()
+Formulario nuevo material
+![]()
+Formulario nueva maquinaria
+![]()
+
+### User goal: Crear un nuevo equipo.
+Vista colaboración y comunicación
+![]()
+Formulario nuevo equipo
+![]()
+
+### User goal: Agregar un nuevo trabajador.
+Vista comunicación y colaboración
+![]()
+Formulario nuevo trabajador
+![]()
+
+### User goal: Crear una nueva tarea.
+Vista comunicación y colaboración
+![]()
+Formulario nueva tarea
+![]()
+
+### User goal: Crear una nueva carpeta.
+Vista documentos – carpetas
+![]()
+Formulario nueva carpeta
+![]()
+
+### User goal: Subir un nuevo archivo.
+Vista documentos – carpeta seleccionada
+![]()
+Formulario nuevo archivo
+![]()
+
+### User goal: Editar datos personales
+Vista datos personales
+![]()
+
 ### 4.4.4 Web Applications UserFlow Diagrams
+
+### User goal: Iniciar sesión, registro de un nuevo usuario y recuperación de contraseña.
+![]()
+Descripción:
+Al iniciar la aplicación, el usuario se encuentra en la vista de bienvenida, donde podrá seleccionar dos opciones: iniciar sesión, que lo llevará a la pantalla de inicio de sesión para acceder a la aplicación, y además recuperar su contraseña o registrarse con sus datos personales. 
+
+### User goal: Crear un nuevo proyecto y ver información de un proyecto.
+![]()
+Descripción:
+Desde la vista de proyectos, el usuario puede crear nuevos proyectos al seleccionar el botón 'Crear nuevo proyecto'. Al completar correctamente los datos requeridos en el formulario, podrá visualizar la información del nuevo proyecto. 
+
+### User goal: Agregar un nuevo material y agregar una nueva maquinaria.
+![]()
+Descripción:
+Desde la vista de gestión de recursos, el usuario puede crear un nuevo material o una nueva maquinaria al presionar el botón 'Agregar' correspondiente. Se mostrará un formulario donde el usuario completará los datos correspondientes y al presionar el botón 'Guardar', verá el nuevo elemento agregado. 
+
+### User goal: Crear un nuevo equipo.
+![]()
+Descripción:
+Desde la vista de comunicación y colaboración, el usuario puede crear un nuevo equipo al presionar el botón 'Agregar' en la sección de equipos. Aparecerá un formulario que deberá completar con los datos correctos y al hacerlo, se creará el nuevo equipo. 
+
+### User goal: Agregar un nuevo trabajador.
+![]()
+Descripción:
+Desde la vista de comunicación y colaboración, el usuario puede agregar un nuevo trabajador al presionar el botón 'Agregar' en la sección de trabajadores. Aparecerá un formulario que deberá completar con los datos correctos y al hacerlo, se agregará al nuevo trabajador. 
+
+### User goal: Crear una nueva tarea.
+![]()
+Descripción:
+Desde la vista de comunicación y colaboración, el usuario puede crear una nueva tarea al presionar el botón 'Agregar' en la sección de tareas. Aparecerá un formulario que deberá completar con los datos correctos y al hacerlo, se creará una nueva tarea.
+ 
+### User goal: Crear una nueva carpeta.
+![]()
+Descripción:
+Desde la vista de documentos, al seleccionar el botón 'Crear carpeta', el usuario verá un formulario donde podrá ingresar el nombre de la carpeta, y al hacerlo, se creará la nueva carpeta. 
+
+### User goal: Subir un nuevo archivo.
+![]()
+Descripción:
+Al seleccionar una carpeta disponible, el usuario puede subir un archivo al hacer clic en 'Subir archivo', donde podrá elegir el nombre de este. 
+
+### User goal: Editar datos personales
+![]()
+Descripción:
+Al estar en la vista configuración, el usuario puede editar su perfil y cambiar su foto de perfil.
 
 ## 4.5. Web Applications Prototyping
 
